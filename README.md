@@ -1,8 +1,17 @@
 # AIFA Assignment 1
 
+### Group Members:
+
+| Roll Number   | Name              |
+|:-------------:|:-----------------:|
+| 18EE10025     | Yash Kulkarni     |
+| 18EE10043     | Rhitvik Sinha     |
+| 18EE30021     | Pratyush Jaiswal  |
+| 18EE30029     | Nuruddin Jiruwala |
+
 ### Problem chosen for assignment:
 
-**Electric Vahicle**
+**Electric Vehicle**
 
 Consider a city network where we need to route a set of electric vehicles
 which may require to be charged during its journey from some source to some destination. Let
@@ -23,13 +32,6 @@ Assume that all vehicles start their journey at `t = 0` and `Pr` reaches it dest
 need to route all the vehicles from their respective sources to destinations such that `max{Tr}`
 is minimized. You need to develop both optimal as well as heuristic algorithms.
 
-### Group Members:
-
-| Roll Number   | Name              |
-|:-------------:|:-----------------:|
-| 18EE10025     | Yash Kulkarni     |
-| 18EE10043     | Rhitvik Sinha     |
-| 18EE30021     | Pratyush Jaiswal  |
-| 18EE30029     | Nuruddin Jiruwala |
+![question](./img/question.JPG)
 
 ### Files uploaded:
