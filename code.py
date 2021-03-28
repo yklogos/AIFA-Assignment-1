@@ -1,4 +1,3 @@
-import pickle
 from collections import defaultdict, deque
 from copy import deepcopy
 
@@ -61,30 +60,23 @@ class car:
 
     def shortest_path(self):
         initial = self.src
-        shortest_paths = {initial: (None, 0)}
-        current_node = self.src
-        visited = set()
-
-        while current_node != self.dest:
-            visited.add(current_node)
-            destinations = self.edges[current_node]
-            weight_to_current_node = shortest_paths[current_node][1]
-
-            for next_node in destinations:
-                weight = self.graph[current_node][next_node] + weight_to_current_node
-                if next_node not in shortest_paths:
-                    shortest_paths[next_node] = (current_node, weight)
-                else:
-                    current_shortest_weight = shortest_paths[next_node][1]
-                    if current_shortest_weight > weight:
-                        shortest_paths[next_node] = (current_node, weight)
-
-            next_destinations = {node: shortest_paths[node] for node in shortest_paths if node not in visited}
-            # next node is the destination with the lowest weight
-            current_node = min(next_destinations, key=lambda k: next_destinations[k][1])
+        shortest_paths = defaultdict(lambda:(None, float("inf")))
+        shortest_paths[initial] = (None, 0)
+        visited = defaultdict(bool)
+        q = PriorityQueue()
+        q.put((0,initial))
+        while(not q.empty()):
+            curr_node = q.get()[1]
+            if(visited[curr_node]):
+                continue
+            visited[curr_node] = True
+            for next_node in self.edges[curr_node]:
+                if(shortest_paths[curr_node][1]+self.graph[curr_node][next_node]<shortest_paths[next_node][1]):
+                    shortest_paths[next_node] = (curr_node, shortest_paths[curr_node][1]+graph[curr_node][next_node])
+                    q.put((shortest_paths[next_node][1], next_node))
 
         # Work back through destinations in shortest path
-
+        current_node = self.dest
         while current_node is not None:
             self.path.append(current_node)
             next_node = shortest_paths[current_node][0]
