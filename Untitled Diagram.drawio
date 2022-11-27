@@ -1,100 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T13:08:37.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="1Gnf60RDdMFTwJO_M_Mz" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T13:17:44.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="Y6Ldbhv9IBohiPNlzJ9c" type="github">
   <diagram id="yWNZY2J24FkwbNy4CQpn" name="Page-1">
-    <mxGraphModel dx="1849" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-1" target="Zrs7Km_TVFCokHQbHUnR-28">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-1" target="Zrs7Km_TVFCokHQbHUnR-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-1" value="1) Preheat your waffle iron. In a large bowl, mix together&lt;br&gt;the flour, salt, baking powder, and sugar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-1" value="1) Preheat your waffle iron. In a large bowl, mix together&lt;br&gt;the flour, salt, baking powder, and sugar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-2" target="Zrs7Km_TVFCokHQbHUnR-29">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-2" target="Zrs7Km_TVFCokHQbHUnR-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-2" value="2) In another bowl, beat the eggs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-2" value="2) In another bowl, beat the eggs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-4" target="Zrs7Km_TVFCokHQbHUnR-30">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-4" target="Zrs7Km_TVFCokHQbHUnR-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-4" value="3) Pour the liquid into the flour mixture and beat until&lt;br&gt;blended." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-4" value="3) Pour the liquid into the flour mixture and beat until&lt;br&gt;blended." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-6" target="Zrs7Km_TVFCokHQbHUnR-31">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-6" target="Zrs7Km_TVFCokHQbHUnR-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-6" value="4) Ladle the batter into the waffle iron and cook&lt;br/&gt;until crisp and golden." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-6" value="4) Ladle the batter into the waffle iron and cook&lt;br&gt;until crisp and golden." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="100" y="360" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-7" value="&lt;b&gt;Original Recipe:&amp;nbsp;&lt;/b&gt;&lt;br&gt;Preheat your waffle iron. In a large bowl, mix together&lt;br&gt;the flour, salt, baking powder, and sugar. In another bowl, beat the eggs. Add the milk, butter, and vanilla to the eggs. Pour the liquid into the flour mixture and beat until blended. Ladle the batter into the waffle iron and cook until crisp and golden." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-7" value="&lt;b&gt;Original Recipe:&amp;nbsp;&lt;/b&gt;&lt;br&gt;Preheat your waffle iron. In a large bowl, mix together&lt;br&gt;the flour, salt, baking powder, and sugar. In another bowl, beat the eggs. Add the milk, butter, and vanilla to the eggs. Pour the liquid into the flour mixture and beat until blended. Ladle the batter into the waffle iron and cook until crisp and golden." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-230" y="120" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-8" value="Permutation set" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="260" width="240" height="200" as="geometry" />
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-8" value="Permutation set" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="250" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
           <mxGeometry y="30" width="240" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-10" value="index" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-9">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-10" value="index" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-9">
           <mxGeometry width="57" height="38" as="geometry">
             <mxRectangle width="57" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-11" value="permutation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-9">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-11" value="permutation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-9">
           <mxGeometry x="57" width="183" height="38" as="geometry">
             <mxRectangle width="183" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
           <mxGeometry y="68" width="240" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-13">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-13">
           <mxGeometry width="57" height="34" as="geometry">
             <mxRectangle width="57" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-13">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-13">
           <mxGeometry x="57" width="183" height="34" as="geometry">
             <mxRectangle width="183" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
           <mxGeometry y="102" width="240" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-18" value="23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-17">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-17">
           <mxGeometry width="57" height="33" as="geometry">
             <mxRectangle width="57" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-19" value="(4, 3, 1, 2)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-17">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-17">
           <mxGeometry x="57" width="183" height="33" as="geometry">
             <mxRectangle width="183" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
           <mxGeometry y="135" width="240" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-21">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-22" value="23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-21">
           <mxGeometry width="57" height="33" as="geometry">
             <mxRectangle width="57" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-21">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-23" value="(4, 3, 1, 2)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-21">
           <mxGeometry x="57" width="183" height="33" as="geometry">
             <mxRectangle width="183" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
           <mxGeometry y="168" width="240" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-25">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-25">
           <mxGeometry width="57" height="32" as="geometry">
             <mxRectangle width="57" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-25">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-25">
           <mxGeometry x="57" width="183" height="32" as="geometry">
             <mxRectangle width="183" height="32" as="alternateBounds" />
           </mxGeometry>
@@ -104,7 +104,7 @@
             <mxPoint x="919.3600000000001" y="389.4000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-28" value="1) Preheat your waffle iron. In a large bowl, mix together&lt;br&gt;the flour, salt, baking powder, and sugar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-28" value="1) Preheat your waffle iron. In a large bowl, mix together&lt;br&gt;the flour, salt, baking powder, and sugar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zrs7Km_TVFCokHQbHUnR-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-29">
@@ -112,7 +112,7 @@
             <mxPoint x="918.4000000000001" y="309.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-29" value="2) In another bowl, beat the eggs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-29" value="2) In another bowl, beat the eggs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zrs7Km_TVFCokHQbHUnR-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-30">
@@ -120,7 +120,7 @@
             <mxPoint x="919.3600000000001" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-30" value="3) Pour the liquid into the flour mixture and beat until&lt;br&gt;blended." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-30" value="3) Pour the liquid into the flour mixture and beat until&lt;br&gt;blended." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zrs7Km_TVFCokHQbHUnR-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.03;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-31">
@@ -128,7 +128,7 @@
             <mxPoint x="915.1999999999998" y="229.20000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-31" value="4) Ladle the batter into the waffle iron and cook&lt;br/&gt;until crisp and golden." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-31" value="4) Ladle the batter into the waffle iron and cook&lt;br&gt;until crisp and golden." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zrs7Km_TVFCokHQbHUnR-87" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Zrs7Km_TVFCokHQbHUnR-86">
@@ -136,7 +136,7 @@
             <mxPoint x="1080" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-51" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-51" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=#b1ddf0;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1260" y="120" width="30" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Zrs7Km_TVFCokHQbHUnR-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-51">
@@ -182,11 +182,17 @@
         <mxCell id="Zrs7Km_TVFCokHQbHUnR-91" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-86" target="Zrs7Km_TVFCokHQbHUnR-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-86" value="MLP Head" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-86" value="MLP Head" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-93" value="Transformer Model" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-93" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;Transformer &lt;br&gt;Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#CCCCCC;fillColor=#CCCCCC;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="920" y="120" width="160" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-97" value="23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="373.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Zrs7Km_TVFCokHQbHUnR-64" target="Zrs7Km_TVFCokHQbHUnR-97">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
