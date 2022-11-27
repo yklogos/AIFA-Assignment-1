@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T12:33:49.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="eFJ-qhovXdcyIl_FFWSs" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T12:42:46.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="RYPLowV8wSidHqq9Av0n" type="github">
   <diagram id="yWNZY2J24FkwbNy4CQpn" name="Page-1">
     <mxGraphModel dx="1609" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,88 @@
         <mxCell id="Zrs7Km_TVFCokHQbHUnR-6" value="4) Ladle the batter into the waffle iron and cook&lt;br/&gt;until crisp and golden." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="360" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zrs7Km_TVFCokHQbHUnR-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="120" width="230" height="150" as="geometry" />
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-7" value="&lt;b&gt;Original Recipe:&amp;nbsp;&lt;/b&gt;&lt;br&gt;Preheat your waffle iron. In a large bowl, mix together&lt;br&gt;the flour, salt, baking powder, and sugar. In another bowl, beat the eggs. Add the milk, butter, and vanilla to the eggs. Pour the liquid into the flour mixture and beat until blended. Ladle the batter into the waffle iron and cook until crisp and golden." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="120" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-8" value="Permutation set" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="260" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+          <mxGeometry y="30" width="240" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-10" value="index" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-9">
+          <mxGeometry width="57" height="38" as="geometry">
+            <mxRectangle width="57" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-11" value="permutation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-9">
+          <mxGeometry x="57" width="183" height="38" as="geometry">
+            <mxRectangle width="183" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+          <mxGeometry y="68" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-13">
+          <mxGeometry width="57" height="34" as="geometry">
+            <mxRectangle width="57" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-13">
+          <mxGeometry x="57" width="183" height="34" as="geometry">
+            <mxRectangle width="183" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+          <mxGeometry y="102" width="240" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-18" value="23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-17">
+          <mxGeometry width="57" height="33" as="geometry">
+            <mxRectangle width="57" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-19" value="(4, 3, 1, 2)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-17">
+          <mxGeometry x="57" width="183" height="33" as="geometry">
+            <mxRectangle width="183" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+          <mxGeometry y="135" width="240" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-21">
+          <mxGeometry width="57" height="33" as="geometry">
+            <mxRectangle width="57" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-21">
+          <mxGeometry x="57" width="183" height="33" as="geometry">
+            <mxRectangle width="183" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-8">
+          <mxGeometry y="168" width="240" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-25">
+          <mxGeometry width="57" height="32" as="geometry">
+            <mxRectangle width="57" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="Zrs7Km_TVFCokHQbHUnR-25">
+          <mxGeometry x="57" width="183" height="32" as="geometry">
+            <mxRectangle width="183" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-28" value="1) Preheat your waffle iron. In a large bowl, mix together&lt;br&gt;the flour, salt, baking powder, and sugar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-29" value="2) In another bowl, beat the eggs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-30" value="3) Pour the liquid into the flour mixture and beat until&lt;br&gt;blended." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrs7Km_TVFCokHQbHUnR-31" value="4) Ladle the batter into the waffle iron and cook&lt;br/&gt;until crisp and golden." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
